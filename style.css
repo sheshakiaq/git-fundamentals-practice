@@ -1,3 +1,11 @@
 <h1 style ="color:blue">Hello Kiaq! </h1>
 <p style="font-size:18px">This is Git task</p>  
-
+nav{
+ background:#333;
+ padding:10px;
+}
+nav a{
+ color:white;
+ marign-right:15px;
+ text-decoration:none;
+}
